@@ -12,7 +12,7 @@
 			<testItem name="Simple_Demo" key="{70A49863-42C1-48AB-A31A-4EA0BA420E88}" group="True" parallel="False" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 				<testParameters />
 				<children>
-					<testItem name="Passing_Test" key="{3042F8CD-DE23-4259-878D-6C3274F304CB}" group="False" parallel="False" enabled="True" testMoniker="KDT\{536EA7ED-A895-480B-A5FA-B2951FE6F50B}" count="10" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+					<testItem name="Passing_Test" key="{3042F8CD-DE23-4259-878D-6C3274F304CB}" group="False" parallel="False" enabled="True" testMoniker="KDT\{536EA7ED-A895-480B-A5FA-B2951FE6F50B}" count="20" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 						<testParameters />
 						<environments activeCloud="CBT" />
 						<children />
@@ -27,7 +27,7 @@
 						<environments activeCloud="CBT" />
 						<children />
 					</testItem>
-					<testItem name="Event_Test" key="{FA64D20E-8AAA-4B55-8873-5F6C21C3AE77}" group="False" parallel="False" enabled="True" testMoniker="KDT\{AD0FF08F-B5AE-44B1-A73C-FB0B68FBB859}" count="4" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+					<testItem name="Event_Test" key="{FA64D20E-8AAA-4B55-8873-5F6C21C3AE77}" group="False" parallel="False" enabled="True" testMoniker="KDT\{AD0FF08F-B5AE-44B1-A73C-FB0B68FBB859}" count="10" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 						<testParameters />
 						<environments activeCloud="CBT" />
 						<children />
@@ -57,7 +57,7 @@
 						<environments activeCloud="CBT" />
 						<children />
 					</testItem>
-					<testItem name="State_Passing" key="{9C87F135-563B-4010-B829-1087177F4379}" group="False" parallel="False" enabled="True" testMoniker="KDT\{536EA7ED-A895-480B-A5FA-B2951FE6F50B}" count="10" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+					<testItem name="State_Passing" key="{9C87F135-563B-4010-B829-1087177F4379}" group="False" parallel="False" enabled="True" testMoniker="KDT\{536EA7ED-A895-480B-A5FA-B2951FE6F50B}" count="15" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 						<testParameters />
 						<environments activeCloud="CBT" />
 						<children />
@@ -67,7 +67,7 @@
 						<environments activeCloud="CBT" />
 						<children />
 					</testItem>
-					<testItem name="State_Event" key="{BC8A9FAE-1C16-4E59-B6E5-ABEE84148649}" group="False" parallel="False" enabled="False" testMoniker="KDT\{AD0FF08F-B5AE-44B1-A73C-FB0B68FBB859}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+					<testItem name="State_Event" key="{BC8A9FAE-1C16-4E59-B6E5-ABEE84148649}" group="False" parallel="False" enabled="True" testMoniker="KDT\{AD0FF08F-B5AE-44B1-A73C-FB0B68FBB859}" count="5" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 						<testParameters />
 						<environments activeCloud="CBT" />
 						<children />
