@@ -9,7 +9,7 @@
 	<config language="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" />
 	<testItems key="{AED7634E-F57E-461E-89B7-A2683E4391B0}" version="14">
 		<children>
-			<testItem name="Simple_Demo" key="{70A49863-42C1-48AB-A31A-4EA0BA420E88}" group="True" parallel="False" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+			<testItem name="Simple_Demo" key="{70A49863-42C1-48AB-A31A-4EA0BA420E88}" group="True" parallel="False" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 				<testParameters />
 				<children>
 					<testItem name="Passing_Test" key="{3042F8CD-DE23-4259-878D-6C3274F304CB}" group="False" parallel="False" enabled="False" testMoniker="KDT\{536EA7ED-A895-480B-A5FA-B2951FE6F50B}" count="10" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
@@ -57,7 +57,7 @@
 						<environments activeCloud="CBT" />
 						<children />
 					</testItem>
-					<testItem name="State_Warning" key="{706FC0AD-5412-4937-BBB3-B22A7326A3E7}" group="False" parallel="False" enabled="False" testMoniker="{1E227F9F-809D-4180-B1AD-0981208995BC}Warning_Test" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+					<testItem name="State_Warning" key="{706FC0AD-5412-4937-BBB3-B22A7326A3E7}" group="False" parallel="False" enabled="True" testMoniker="{1E227F9F-809D-4180-B1AD-0981208995BC}Warning_Test" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 						<testParameters />
 						<environments activeCloud="CBT" />
 						<children />
