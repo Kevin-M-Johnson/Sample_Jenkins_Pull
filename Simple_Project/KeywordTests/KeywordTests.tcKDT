@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<folder name="Common_Keyword_Tests">
+			<child name="Get_TestExecute_Version_Information" key="{C8EA5AEE-FD48-436C-9D59-42C427FA76AE}" path="Get_TestExecute_Version_Information.tcKDTest" />
+			<child name="Get_TestComplete_Version_Information" key="{CE6BF9D6-775D-4F4C-B3B2-BC86098525C2}" path="Get_TestComplete_Version_Information.tcKDTest" />
+		</folder>
+		<folder name="Simple_Demo">
+			<child name="Passing_Test" key="{536EA7ED-A895-480B-A5FA-B2951FE6F50B}" path="Passing_Test.tcKDTest" />
+			<child name="Warning_Test" key="{910F8872-3AB6-4DEA-95F4-041C3074287E}" path="Warning_Test.tcKDTest" />
+			<child name="Failing_Test" key="{879779BC-5953-4B2F-AB60-3696EC3EDA09}" path="Failing_Test.tcKDTest" />
+		</folder>
+		<folder name="GeneralEvents">
+			<child name="GeneralEvents_OnStartTest" key="{91FD981A-3EF1-4939-948C-1042B46CC931}" path="GeneralEvents_OnStartTest.tcKDTest" />
+		</folder>
+	</children>
+</Root>
