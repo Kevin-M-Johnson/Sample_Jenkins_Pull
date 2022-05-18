@@ -16,3 +16,8 @@ def Passing_Test():
 def Warning_Test():
     #Posts a warning to the test log.
     Log.Warning("This is simply a test to demostrate warning execution", "", pmNormal, Project.Variables.LogAtrribWarning)
+
+#@EventMessage
+def Event_Test():
+    #Posts an event to the test log.
+    Log.Event("This is simply a test to demostrate event message", "", pmNormal, Project.Variables.LogAtrribInformation)

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
 	<children>
 		<folder name="Common_Keyword_Tests">
@@ -9,6 +9,7 @@
 			<child name="Passing_Test" key="{536EA7ED-A895-480B-A5FA-B2951FE6F50B}" path="Passing_Test.tcKDTest" />
 			<child name="Warning_Test" key="{910F8872-3AB6-4DEA-95F4-041C3074287E}" path="Warning_Test.tcKDTest" />
 			<child name="Failing_Test" key="{879779BC-5953-4B2F-AB60-3696EC3EDA09}" path="Failing_Test.tcKDTest" />
+			<child name="Event_Test" key="{AD0FF08F-B5AE-44B1-A73C-FB0B68FBB859}" path="Event_Test.tcKDTest" />
 		</folder>
 		<folder name="GeneralEvents">
 			<child name="GeneralEvents_OnStartTest" key="{91FD981A-3EF1-4939-948C-1042B46CC931}" path="GeneralEvents_OnStartTest.tcKDTest" />
