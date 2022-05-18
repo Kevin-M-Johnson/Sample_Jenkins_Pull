@@ -49,7 +49,7 @@
 					</testItem>
 				</children>
 			</testItem>
-			<testItem name="State_Script_Routines" key="{96C2E26E-12D2-4A3B-8731-11C6E7030030}" group="True" parallel="False" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+			<testItem name="State_Script_Routines" key="{96C2E26E-12D2-4A3B-8731-11C6E7030030}" group="True" parallel="False" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 				<testParameters />
 				<children>
 					<testItem name="State_Failing" key="{9B1725E0-0349-47E2-A6C6-00259087E9C7}" group="False" parallel="False" enabled="False" testMoniker="{1E227F9F-809D-4180-B1AD-0981208995BC}Failing_Test" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
